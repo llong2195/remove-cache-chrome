@@ -9,6 +9,7 @@ CACHE_FOLDERS = [
     "Code Cache",
     "GPUCache",
     "Media Cache",
+    "IndexedDB",
     os.path.join("Service Worker", "CacheStorage"),
 ]
 
